@@ -1,0 +1,23 @@
+transformix -in test_nii/copd1/copd1_eBHCT.nii.gz -out test_nii/copd1/elastix_out/registered_moving -tp test_nii/copd1/elastix_out/TransformParameters.0.txt
+transformix -def test_nii/copd1/copd1_300_iBH_xyz_r2.txt -out test_nii/copd1/elastix_out/registered_landmarks -tp test_nii/copd1/elastix_out/TransformParameters.0.txt
+
+transformix -in test_nii/copd2/copd2_eBHCT.nii.gz -out test_nii/copd2/elastix_out/registered_moving -tp test_nii/copd2/elastix_out/TransformParameters.0.txt
+transformix -def test_nii/copd2/copd2_300_iBH_xyz_r2.txt -out test_nii/copd2/elastix_out/registered_landmarks -tp test_nii/copd2/elastix_out/TransformParameters.0.txt
+
+transformix -in test_nii/copd3/copd3_eBHCT.nii.gz -out test_nii/copd3/elastix_out/registered_moving -tp test_nii/copd3/elastix_out/TransformParameters.0.txt
+transformix -def test_nii/copd3/copd3_300_iBH_xyz_r2.txt -out test_nii/copd3/elastix_out/registered_landmarks -tp test_nii/copd3/elastix_out/TransformParameters.0.txt
+
+transformix -in test_nii/copd4/copd4_eBHCT.nii.gz -out test_nii/copd4/elastix_out/registered_moving -tp test_nii/copd4/elastix_out/TransformParameters.0.txt
+transformix -def test_nii/copd4/copd4_300_iBH_xyz_r2.txt -out test_nii/copd4/elastix_out/registered_landmarks -tp test_nii/copd4/elastix_out/TransformParameters.0.txt
+
+transformix -in test_nii/copd7/copd7_eBHCT.nii.gz -out test_nii/copd7/elastix_out/registered_moving -tp test_nii/copd7/elastix_out/TransformParameters.0.txt
+transformix -def test_nii/copd7/copd7_300_iBH_xyz_r2.txt -out test_nii/copd7/elastix_out/registered_landmarks -tp test_nii/copd7/elastix_out/TransformParameters.0.txt
+
+transformix -in test_nii/copd8/copd8_eBHCT.nii.gz -out test_nii/copd8/elastix_out/registered_moving -tp test_nii/copd8/elastix_out/TransformParameters.0.txt
+transformix -def test_nii/copd8/copd8_300_iBH_xyz_r2.txt -out test_nii/copd8/elastix_out/registered_landmarks -tp test_nii/copd8/elastix_out/TransformParameters.0.txt
+
+transformix -in test_nii/copd9/copd9_eBHCT.nii.gz -out test_nii/copd9/elastix_out/registered_moving -tp test_nii/copd9/elastix_out/TransformParameters.0.txt
+transformix -def test_nii/copd9/copd9_300_iBH_xyz_r2.txt -out test_nii/copd9/elastix_out/registered_landmarks -tp test_nii/copd9/elastix_out/TransformParameters.0.txt
+
+transformix -in test_nii/copd10/copd10_eBHCT.nii.gz -out test_nii/copd10/elastix_out/registered_moving -tp test_nii/copd10/elastix_out/TransformParameters.0.txt
+transformix -def test_nii/copd10/copd10_300_iBH_xyz_r2.txt -out test_nii/copd10/elastix_out/registered_landmarks -tp test_nii/copd10/elastix_out/TransformParameters.0.txt

@@ -1,0 +1,15 @@
+elastix -f test_nii/copd1/copd1_iBHCT.nii.gz -fMask test_nii/copd1/seg_copd1_iBHCT.nii.gz -m test_nii/copd1/copd1_eBHCT.nii.gz -mMask test_nii/copd1/seg_copd1_eBHCT.nii.gz -p ./bspline_transform.txt -out test_nii/copd1/elastix_out
+elastix -f test_nii/copd2/copd2_iBHCT.nii.gz -fMask test_nii/copd2/seg_copd2_iBHCT.nii.gz -m test_nii/copd2/copd2_eBHCT.nii.gz -mMask test_nii/copd2/seg_copd2_eBHCT.nii.gz -p ./bspline_transform.txt -out test_nii/copd2/elastix_out
+elastix -f test_nii/copd3/copd3_iBHCT.nii.gz -fMask test_nii/copd3/seg_copd3_iBHCT.nii.gz -m test_nii/copd3/copd3_eBHCT.nii.gz -mMask test_nii/copd3/seg_copd3_eBHCT.nii.gz -p ./bspline_transform.txt -out test_nii/copd3/elastix_out
+elastix -f test_nii/copd4/copd4_iBHCT.nii.gz -fMask test_nii/copd4/seg_copd4_iBHCT.nii.gz -m test_nii/copd4/copd4_eBHCT.nii.gz -mMask test_nii/copd4/seg_copd4_eBHCT.nii.gz -p ./bspline_transform.txt -out test_nii/copd4/elastix_out
+elastix -f test_nii/copd7/copd7_iBHCT.nii.gz -fMask test_nii/copd7/seg_copd7_iBHCT.nii.gz -m test_nii/copd7/copd7_eBHCT.nii.gz -mMask test_nii/copd7/seg_copd7_eBHCT.nii.gz -p ./bspline_transform.txt -out test_nii/copd7/elastix_out
+elastix -f test_nii/copd8/copd8_iBHCT.nii.gz -fMask test_nii/copd8/seg_copd8_iBHCT.nii.gz -m test_nii/copd8/copd8_eBHCT.nii.gz -mMask test_nii/copd8/seg_copd8_eBHCT.nii.gz -p ./bspline_transform.txt -out test_nii/copd8/elastix_out
+elastix -f test_nii/copd9/copd9_iBHCT.nii.gz -fMask test_nii/copd9/seg_copd9_iBHCT.nii.gz -m test_nii/copd9/copd9_eBHCT.nii.gz -mMask test_nii/copd9/seg_copd9_eBHCT.nii.gz -p ./bspline_transform.txt -out test_nii/copd9/elastix_out
+elastix -f test_nii/copd10/copd10_iBHCT.nii.gz -fMask test_nii/copd10/seg_copd10_iBHCT.nii.gz -m test_nii/copd10/copd10_eBHCT.nii.gz -mMask test_nii/copd10/seg_copd10_eBHCT.nii.gz -p ./bspline_transform.txt -out test_nii/copd10/elastix_out
+
+
+
+
+
+
+

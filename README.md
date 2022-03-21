@@ -14,4 +14,4 @@ Note : Comments are provided for explanation (almost). For more information, con
 ![image](https://user-images.githubusercontent.com/52396323/159360615-e80faa6e-04b6-42d0-ad40-8a85d1e790bb.png)
 
 ## Challenge Results (MAIA - 3rd Semester)
-Our method was the fastest and had the best results in the Subject MIRA - Medical Image Registration and Applications. 
+Our method was the fastest and had the best results (Ranked 1st) in the Subject MIRA - Medical Image Registration and Applications. 

@@ -9,3 +9,6 @@ How to play with the codes?
 2. Use the DICOM Files to train the Voxelmoprh Deep Learning Pipeline, and obtain the result and calculate the TRE in both the aforementioned pipelines.
 
 Note : Comments are provided for explanation (almost). For more information, contact me!
+
+
+![image](https://user-images.githubusercontent.com/52396323/159360615-e80faa6e-04b6-42d0-ad40-8a85d1e790bb.png)

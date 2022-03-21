@@ -10,5 +10,8 @@ How to play with the codes?
 
 Note : Comments are provided for explanation (almost). For more information, contact me!
 
-
+## Qualitative Results
 ![image](https://user-images.githubusercontent.com/52396323/159360615-e80faa6e-04b6-42d0-ad40-8a85d1e790bb.png)
+
+## Challenge Results (MAIA - 3rd Semester)
+Our method was the fastest and had the best results in the Subject MIRA - Medical Image Registration and Applications. 
